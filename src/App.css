@@ -1,0 +1,13 @@
+.App {
+  width: 250px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.App-header {
+  font-size: calc(25px);
+  margin-bottom: 25px;
+  margin-top: 25px;
+  text-align: center;
+}
